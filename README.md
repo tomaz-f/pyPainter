@@ -1,8 +1,13 @@
 # pyPainter
-This app is build using pygame framework. 
+This app is build using pygame library. 
 
 It's a simple painter.
 
-Open the terminal and copy this command
+To run in windows, open the terminal and run this command:
 
 python main.py
+
+
+On linux run:
+
+python3 main.py
